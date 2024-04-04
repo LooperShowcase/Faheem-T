@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>cars</title>
+    <style>
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+
+
+
+        ul{
+            font-family: "Varela Round", sans-serif;
+        }
+     body{background-color: coral;
+
+
+     }
+    
+    </style>
+</head>
+<hr>
+
+<body>
+<ul id="navbar">
+  <li id="nav-item"><a class="active" href="index.html">Cars</a></li>
+  <li id="nav-item"><a href="instructions.html">bikes</a></li>
+</ul>
+
+ <h1>cars</h1>  
+ <br>
+
+ 
+
+
+
+
+
+ <br>
+<p>1.Types of Cars: There are various types of cars available in the market, including sedans, SUVs (Sport Utility Vehicles), coupes, convertibles, hatchbacks, trucks, vans, and electric vehicles (EVs).Types of Cars: There are various types of cars available in the market, including sedans, SUVs (Sport Utility Vehicles), coupes, convertibles, hatchbacks, trucks, vans, and electric vehicles (EVs). 
+<br>
+
+    2. Engine Types: Cars can have different types of engines, such as gasoline (petrol), diesel, hybrid (combining gasoline and electric power), and fully electric.
+     <br>
+     3.Transmission: Cars can have either manual or automatic transmission. In manual transmission, the driver manually shifts gears using a clutch pedal and gear stick, while automatic transmission shifts gears automatically.
+     <br>
+    4. Fuel Efficiency: This refers to the distance a car can travel per unit of fuel consumed. It's typically measured in miles per gallon (MPG) or liters per 100 kilometers (L/100km).
+     <br>
+    5. Safety Features: Modern cars come equipped with various safety features such as airbags, anti-lock braking systems (ABS), traction control, electronic stability control (ESC), blind-spot monitoring, lane departure warning, and adaptive cruise control.
+     <br>
+    6. Entertainment and Connectivity: Many cars offer advanced entertainment and connectivity features like touchscreen infotainment systems, Bluetooth connectivity, Apple CarPlay, Android Auto, navigation systems, and Wi-Fi hotspots.
+    <br>
+    7. Maintenance: Regular maintenance is essential to keep a car running smoothly and safely. This includes oil changes, tire rotations, brake inspections, and periodic servicing as per the manufacturer's recommendations.
+    <br>
+    8. Environmental Impact: With growing concerns about climate change, the environmental impact of cars is increasingly important. Electric vehicles produce zero tailpipe emissions, making them more environmentally friendly than traditional internal combustion engine vehicles.
+    <br>
+    9. Cost of Ownership: Owning a car involves various costs beyond the purchase price, including insurance, fuel, maintenance, repairs, registration fees, and depreciation.
+    <br>
+   10.  Advancements in Technology: Cars are constantly evolving with advancements in technology. This includes developments in autonomous driving, vehicle-to-vehicle communication, advanced driver assistance systems (ADAS), and alternative fuel sources.
+     
+     Remember, when buying a car, it's essential to consider factors such as your budget, intended use, safety features, fuel efficiency, and environmental impact to make an informed decision.
+     <br>
+
+     <hr>
+
+     </p>
+   
+    <h3>the most  popular cars company: </h3>
+
+    <div class="row">
+        <div class="column">
+          <img src="https://media.ed.edmunds-media.com/chevrolet/corvette/2024/oem/2024_chevrolet_corvette_coupe_e-ray_fq_oem_1_1280.jpg" alt="Snow" style="width:100%">
+        </div>
+        <div class="column">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1MUcBolLRwusxFGED2QoDHZtKBB6-zEE7hQ&usqp=CAU" alt="Forest" style="width:100%">
+        </div>
+        <div class="column">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpb0oqGnUONBwWnoCssmRFhpE_j3N777cxig&usqp=CAU" alt="Mountains" style="width:100%">
+        </div>
+      </div>
+    <ul >
+        <li>Toyota</li>
+        <li>BMW</li>
+        <li>Mercedes-Benz</li>
+        <li>Nissan</li>
+        <li>Audi</li>
+        <li>Hyundai</li>
+        <li>Subaru</li>
+        <li>Dodge</li>
+        <li>Mazda</li>
+        <li>Mitsubishi</li>
+        <li>Land Rover</li>
+        <li>Porsche</li>
+        <li>Ferrari</li>
+        <li>Lexis</li>
+        <li>Rolls-Royce</li>
+        <li>Bentley</li>
+        <li>McLaren</li>
+        <li>Bugatti</li>
+        <li>Corvette</li>
+    </ul>
+    
+    <hr>
+
+    
+</body>
+</html>
